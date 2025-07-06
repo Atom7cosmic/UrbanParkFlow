@@ -48,7 +48,8 @@ flowchart TD
     C2 --> D
     C3 --> D
     D --> E[Output as JSONL]
-    E --> F[Bokeh & Matplotlib Visualizations]```
+    E --> F[Bokeh & Matplotlib Visualizations]
+```
 
 
 
