@@ -36,7 +36,8 @@ This project demonstrates how modern data infrastructure can optimize urban syst
 
 
 
-## Project Architecture
+##  Project Architecture
+
 
 ```mermaid
 flowchart TD
@@ -53,11 +54,11 @@ flowchart TD
 
 
 
-## Project Architecture & Workflow
+##  Project Architecture & Workflow
 
 This project is structured to simulate a real-time parking environment using streaming data and dynamic pricing logic. The architecture is modular and layered, ensuring clean data flow, separation of concerns, and adaptability to real-world deployment.
 
-### Workflow Overview
+###  Workflow Overview
 
 1. **Data Ingestion (CSV Stream → Pathway):**  
    - A historical dataset (in CSV format) simulates live parking data.
@@ -88,7 +89,7 @@ This project is structured to simulate a real-time parking environment using str
    - Summary statistics and reroute analytics are captured in a report and visual dashboard.
 
 
-### Modular Code Structure
+###  Modular Code Structure
 
 - `main_notebook.ipynb`: Main logic and model integration (can be run end-to-end)
 - `models/`: Contains modular implementations for each pricing model
@@ -99,7 +100,7 @@ This project is structured to simulate a real-time parking environment using str
 - `report.pdf`: Project summary with assumptions, analysis, and results
 
 
-### Real-World Adaptability
+###  Real-World Adaptability
 
 This architecture is designed to easily scale to:
 - Real-time parking sensors
