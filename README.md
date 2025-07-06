@@ -89,15 +89,6 @@ This project is structured to simulate a real-time parking environment using str
    - Summary statistics and reroute analytics are captured in a report and visual dashboard.
 
 
-### Modular Code Structure
-
-- `main_notebook.ipynb`: Main logic and model integration (can be run end-to-end)
-- `models/`: Contains modular implementations for each pricing model
-- `data/`: Cleaned and preprocessed parking dataset (`cleaned_dataset.csv`)
-- `output/`: Contains generated price stream (`pricing.jsonl`)
-- `visuals/`: Screenshots and charts for GitHub + optional Bokeh app
-- `architecture.md`: Mermaid architecture diagram code
-- `report.pdf`: Project summary with assumptions, analysis, and results
 
 
 ### Real-World Adaptability
