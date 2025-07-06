@@ -85,7 +85,7 @@ This project is structured to simulate a real-time parking environment using str
 
 6. **Visualization & Reporting:**
    - Using `matplotlib`, `bokeh`, and `seaborn`, various pricing behaviors over time are visualized.
-   - Charts comparing Model 1 vs. Model 3 help illustrate the impact of smarter pricing.
+   - Charts comparing Model 1 vs Model 2 vs Model 3 help illustrate the impact of smarter pricing.
    - Summary statistics and reroute analytics are captured in a report and visual dashboard.
 
 
